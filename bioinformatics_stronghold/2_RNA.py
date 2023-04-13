@@ -1,6 +1,6 @@
 """
-Given: A DNA string t having length at most 1000 nt.
-Return: The transcribed RNA string of t.
+Given: A DNA string s having length at most 1000 nt.
+Return: The transcribed RNA string of s.
 """
 
 s = input(str())
